@@ -1,2 +1,2 @@
-println "Hello world"
-println "This is Patrick"
+println "Hello world!!"
+println "Patrick from master branch"
